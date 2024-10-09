@@ -6,10 +6,3 @@ How to Run the application:
 - go into the file directory and run "npm i"
 - run "node app.js"
 or just go to "https://thawing-plains-12308.herokuapp.com/"
-
-Below are attached some pictures of the application:
-
-![image](https://user-images.githubusercontent.com/46281169/67625850-b10c0c00-f811-11e9-9c5a-3056e1617fda.png)
-
-![image](https://user-images.githubusercontent.com/46281169/67625865-f0d2f380-f811-11e9-9330-f93ecabe2957.png)
-
